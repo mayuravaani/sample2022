@@ -7,5 +7,7 @@ class Sum {
         System.out.println(a*b); // multiplication
         System.out.println(a-b);// subtraction
         //importamt change 
+        System.out.println(a-b);
+        // added in sub branch
     }
 }
