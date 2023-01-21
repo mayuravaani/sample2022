@@ -9,9 +9,4 @@ class Sum {
         //importamt change 
         System.out.println(a-b);// added by malar
         // added in sub branch
-        // to be send a pull request to main
-        // i am from another user - mmv editing 13th 
-        // i am from another user - editing 13th line
-        // from some one
-    }
 }
