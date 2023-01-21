@@ -9,4 +9,5 @@ class Sum {
         //importamt change 
         System.out.println(a-b);// added by malar
         // added in sub branch
+        System.out.println(a-b-c);
 }
